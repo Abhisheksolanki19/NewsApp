@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Daily News App</string>
+    <string name="no_news_found">No news found</string>
+    <string name="no_internet">No Internet Connection</string>
+</resources>
