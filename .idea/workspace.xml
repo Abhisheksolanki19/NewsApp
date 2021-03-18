@@ -69,10 +69,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1byfDv8lEHeilfNBvrVrfeA2lxd" />
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
@@ -96,7 +99,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.NewsApp:app [clean]">
+  <component name="RunManager" selected="Android App.app">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -119,8 +122,6 @@
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
       <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
       <option name="DEBUGGER_TYPE" value="Auto" />
       <Auto>
         <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
@@ -192,5 +193,23 @@
       <updated>1589609137364</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1236" height="166" key="GridCell.Tab.0.bottom" timestamp="1616043890482">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1236" height="166" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1616043890482" />
+    <state width="1236" height="166" key="GridCell.Tab.0.center" timestamp="1616043890482">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1236" height="166" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1616043890482" />
+    <state width="1236" height="166" key="GridCell.Tab.0.left" timestamp="1616043890482">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1236" height="166" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1616043890482" />
+    <state width="1236" height="166" key="GridCell.Tab.0.right" timestamp="1616043890482">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1236" height="166" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1616043890482" />
   </component>
 </project>
